@@ -1,0 +1,27 @@
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database may not 
+# have received Director's approval.  Any such data values are qualified as provisional and 
+# are subject to revision.  Provisional data are released on the condition that neither the 
+# USGS nor the United States Government may be held liable for any damages resulting from its use.
+#  Go to http://help.waterdata.usgs.gov/policies/provisional-data-statement for more information.
+#
+# File-format description:  http://help.waterdata.usgs.gov/faq/about-tab-delimited-output
+# Automated-retrieval info: http://help.waterdata.usgs.gov/faq/automated-retrievals
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# retrieved: 2025-12-15 17:03:18 -05:00	(nadww02)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 14103000 DESCHUTES RIVER AT MOODY, NEAR BIGGS, OR
+# -----------------------------------------------------------------------------------
+#
+# TS_ID - An internal number representing a time series.
+#
+# Data provided for site 14103000
+#    TS_ID       Parameter Description
+#    116749      00060     Discharge, cubic feet per second
+#    116750      00065     Gage height, feet
+#
+# Data-value qualification codes included in this output:
+#     P  Provisional data subject to revision.
+#
