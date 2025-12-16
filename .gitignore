@@ -1,2 +1,4 @@
 # Ignore outputs of USGS*.ipynb runs
-USGS_Stream_Gage
+USGS_Stream_Gage# pixi environments
+.pixi/*
+!.pixi/config.toml

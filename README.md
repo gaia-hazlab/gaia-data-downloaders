@@ -6,7 +6,18 @@ scripts to download weather data
 
 **Run these commands in your terminal BEFORE running this notebook:**
 
-**Option 1: Using conda (recommended for reliability)**
+**Option 1: Using pixi (recommended)**
+
+Install pixi first: https://pixi.sh/dev/installation/
+
+```bash
+cd gata-data-downloaders
+pixi install
+```
+In VSCode select the Python kernel called 'default' (with a path .pixi/envs/default/bin/python) for notebooks in this repository.
+
+
+**Option 1: Using conda**
 ```bash
 conda create -n watershed python=3.11
 conda activate watershed
