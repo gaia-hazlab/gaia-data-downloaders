@@ -1,0 +1,17 @@
+[workspace]
+authors = ["Scott Henderson <3924836+scottyhq@users.noreply.github.com>"]
+channels = ["conda-forge"]
+name = "gaia-data-downloaders"
+platforms = ["osx-arm64", "linux-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+geopandas = ">=1.1.1,<2"
+obspy = ">=1.4.2,<2"
+matplotlib = ">=3.10.8,<4"
+pandas = ">=2.2.3,<3"
+rioxarray = ">=0.20.0,<0.21"
+pygeohydro = ">=0.19.4,<0.20"
+ipykernel = ">=7.1.0,<8"
