@@ -19,8 +19,8 @@ In VSCode select the Python kernel called 'default' (with a path .pixi/envs/defa
 
 **Option 1: Using conda**
 ```bash
-conda create -n watershed python=3.11
-conda activate watershed
+conda create -n gaia-hazlab python=3.11
+conda activate gaia-hazlab
 conda install -c conda-forge geopandas obspy matplotlib pandas
 pip install pygeohydro
 ```
