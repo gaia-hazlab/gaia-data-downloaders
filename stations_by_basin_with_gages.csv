@@ -1,4 +1,4 @@
-network,station,latitude,longitude,elevation_m,start_date,end_date,geometry,huc_code,huc_name,basin_name,id,huc_cd
+network,station,latitude,longitude,elevation_m,start_date,end_date,geometry,huc_code,huc_name,basin_name,gage_id,huc_cd
 CC,AHAB,46.19479,-122.187027,2298.0,2005-02-08T00:00:00.000000Z,2005-02-17T00:00:00.000000Z,POINT (-122.187027 46.19479),17080005,Lower Cowlitz,Cowlitz,14233500,17080005
 CC,AHAB,46.19479,-122.187027,2298.0,2005-02-08T00:00:00.000000Z,2005-02-17T00:00:00.000000Z,POINT (-122.187027 46.19479),17080005,Lower Cowlitz,Cowlitz,14236200,17080005
 CC,AHAB,46.19479,-122.187027,2298.0,2005-02-08T00:00:00.000000Z,2005-02-17T00:00:00.000000Z,POINT (-122.187027 46.19479),17080005,Lower Cowlitz,Cowlitz,14238000,17080005
