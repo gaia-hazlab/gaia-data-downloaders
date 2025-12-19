@@ -1,0 +1,22 @@
+name: gaia-hazlab
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - xarray
+  - NetCDF4
+  - geopandas
+  - obspy
+  - matplotlib
+  - cartopy
+  - pandas
+  - elevation
+  - regionmask
+  - rasterio
+  - rioxarray
+  - ipykernel
+  - pip
+  - pip:
+    - pygeohydro
