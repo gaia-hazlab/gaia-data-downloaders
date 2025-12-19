@@ -4,6 +4,7 @@ channels:
   - defaults
 dependencies:
   - python=3.11
+  - numpy
   - xarray
   - NetCDF4
   - geopandas
@@ -11,6 +12,10 @@ dependencies:
   - matplotlib
   - cartopy
   - pandas
+  - elevation
+  - regionmask
+  - rasterio
+  - rioxarray
   - ipykernel
   - pip
   - pip:
