@@ -8,10 +8,16 @@ version = "0.1.0"
 [tasks]
 
 [dependencies]
-geopandas = ">=1.1.1,<2"
+geopandas = ">=1.1.2,<2"
 obspy = ">=1.4.2,<2"
 matplotlib = ">=3.10.8,<4"
 pandas = ">=2.2.3,<3"
 rioxarray = ">=0.20.0,<0.21"
 pygeohydro = ">=0.19.4,<0.20"
 ipykernel = ">=7.1.0,<8"
+obstore = ">=0.8.2,<0.9"
+boto3 = ">=1.42.34,<2"
+libgdal-netcdf = ">=3.12.1,<4"
+contextily = ">=1.7.0,<2"
+matplotlib-scalebar = ">=0.9.0,<0.10"
+cartopy = ">=0.25.0,<0.26"

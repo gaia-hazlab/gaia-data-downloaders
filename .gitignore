@@ -1,3 +1,6 @@
+*.h5 
+*.tif
+
 # Ignore outputs of USGS*.ipynb runs
 USGS_Stream_Gage# pixi environments
 .pixi/*
