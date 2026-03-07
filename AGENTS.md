@@ -1,7 +1,7 @@
 # GAIA Data Downloaders - Agent Documentation
 
 **Repository**: gaia-data-downloaders
-**Organization**: SSEC (Space Science and Engineering Center)
+**Organization**: SSEC (Scientific Software Engineering Center)
 **Project**: GAIA / CRESST Hydroclimatological Data Collection System
 **Primary Language**: Python (Jupyter Notebooks)
 **License**: Not specified
