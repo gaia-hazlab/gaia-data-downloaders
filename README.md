@@ -17,7 +17,7 @@ pixi install
 In VSCode select the Python kernel called 'default' (with a path .pixi/envs/default/bin/python) for notebooks in this repository.
 
 
-**Option 1: Using conda**
+**Option 2: Using conda**
 
 Manual method:
 ```bash
@@ -32,7 +32,7 @@ Or, using environment.yml:
 conda env create -f environment.yml
 ```
 
-**Option 2: Using pip (requires system libraries)**
+**Option 3: Using pip (requires system libraries)**
 ```bash
 # macOS: Install GDAL first
 brew install gdal
